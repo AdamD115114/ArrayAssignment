@@ -70,9 +70,9 @@ Following the below directory structure, you will find your assignment in the fi
 
 ## Grading
 
-    There is a total of 3 marks awarded for this assignment. The will be 1 mark awarded for each method. There will be a number of automatic tests run on your code when you push it to github. You will need to pass each test for a method to gain a mark.
+There is a total of 3 marks awarded for this assignment. The will be 1 mark awarded for each method. There will be a number of automatic tests run on your code when you push it to github. You will need to pass each test for a method to gain a mark.
 
-    You can see the test being run [here](src/test/java/com/example/project/AssignmentTest.java).
+You can see the test being run [here](src/test/java/com/example/project/AssignmentTest.java).
 
 ## Directory Structure
 
